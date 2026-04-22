@@ -16,7 +16,7 @@ Ready to learn? Jump to [code examples!](https://www.raylib.com/examples.html)
 
 Change log
 ===========================
- - 22/4/2026 Initial raylib4Dreamcast public release
+ - 22/4/2026 Initial raylib4Gamecube public release
  
 
   Credits
