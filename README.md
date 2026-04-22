@@ -24,7 +24,7 @@ Change log
   
  - @raysan5 for his amazing work with raylib and raylib has an incredible community developing in the open way!!!! 
  - @falco_girgis and @darc guilty both by call my attention about future KOS support for Gamecube.
- - @extremecorner to point me to libogc2 and devkitpro stuff for Gamecube
+ - @extremscorner to point me to libogc2 and devkitpro stuff for Gamecube
  - all people involved in homebrew tools and libraries for Gamecube.
 
  
